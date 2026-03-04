@@ -7,6 +7,7 @@ module.exports = {
       { text: 'What Claude thinks about me', link: '/claude/' },
       { text: 'About', link: '/about/' }
     ],
+    search: false,
     sidebar: false
   }
 }
